@@ -1,3 +1,5 @@
+Dealing with Imbalanced data in Email Spam Detection dataset.
+
 ![image](https://github.com/Kelvin340-cloud/1st-repo/assets/129606129/3724e1fd-7267-436d-8bf9-aab853aa3749)
 ![image](https://github.com/Kelvin340-cloud/1st-repo/assets/129606129/63305eb0-cb95-483f-8c2a-19a7976910d6)
 ![image](https://github.com/Kelvin340-cloud/1st-repo/assets/129606129/53daa233-7105-4908-b014-f532bf0e7936)
